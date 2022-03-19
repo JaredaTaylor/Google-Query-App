@@ -1,3 +1,9 @@
+.result-list {
+  justify-items: left;
+  text-align: left;
+  margin: 2vw;
+}
+
 .App {
   text-align: center;
 }
